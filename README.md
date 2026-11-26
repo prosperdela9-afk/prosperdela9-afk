@@ -1,193 +1,186 @@
-# 👋 Hi, I'm Prosper Dela Kwasi Dokli
+# 👋 Hi, I'm Prosper Dela
 
-### ☁️ Cloud Engineer | AWS | Linux | DevOps | Infrastructure Automation
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Reliable+Cloud+Infrastructure;Exploring+AWS+%26+Cloud+Engineering;Linux+%7C+Docker+%7C+Terraform;Automating+Solutions+with+Python;Learning+by+Building+Real-World+Projects" alt="Typing SVG" />
-</p>
+<h3 align="center">Cloud Security Engineer | Cloud Infrastructure | Linux | DevSecOps | AWS | Terraform</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20Engineering-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Location-Ghana-008000?style=for-the-badge" />
+  <a href="https://github.com/prosperdela9-afk">
+    <img src="https://img.shields.io/badge/GitHub-Prosper%20Dela-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/REPLACE-WITH-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://aws.amazon.com/">
+    <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure%20%7C%20GCP-FF9900?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Platforms"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+Security+Engineering;Securing+Cloud+Infrastructure;Linux+%7C+DevSecOps+%7C+Terraform;Building+Practical+Security+Projects" alt="Typing SVG"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a technology professional focused on **Cloud Engineering, AWS infrastructure, Linux administration, DevOps and automation**.
+I am developing my career in **Cloud Security Engineering**, with an interest in designing, securing, monitoring, and maintaining reliable cloud infrastructure.
 
-My background spans IT operations, technical support, business intelligence and digital technology. I enjoy understanding how systems work, troubleshooting technical problems and building practical solutions that improve reliability, security and efficiency.
+My technical interests include cloud security, Linux administration, infrastructure automation, container security, and DevSecOps. I enjoy exploring how security principles such as least privilege, defence in depth, encryption, secure configurations, and continuous monitoring can be applied to real-world engineering challenges.
 
-I'm developing my cloud engineering capabilities through hands-on projects, continuous learning and practical experimentation.
+I use **Amazon Web Services (AWS)** as my primary hands-on cloud platform while building transferable knowledge across multi-cloud environments.
 
-**My engineering interests include:**
+- 🌍 Based in Accra, Ghana.
+- ☁️ Focused on cloud security and infrastructure engineering.
+- 🔐 Exploring identity and access management, encryption, network security, and threat detection.
+- 🐧 Building practical Linux administration and system-hardening skills.
+- 🐳 Learning container security and Docker best practices.
+- ⚙️ Developing infrastructure automation skills with Terraform, Python, and Bash.
+- 🚀 Exploring DevSecOps and CI/CD security.
+- 🎓 AWS Cloud Essentials Knowledge Badge.
 
-- ☁️ Designing and managing cloud infrastructure using AWS.
-- 🐧 Linux system administration, troubleshooting and automation.
-- 🐳 Containerization and application deployment using Docker.
-- 🏗️ Infrastructure as Code using Terraform.
-- 🔐 Cloud security, IAM and infrastructure best practices.
-- ⚙️ CI/CD pipelines and deployment automation.
-- 🐍 Python and Bash scripting.
-- 📊 Monitoring, logging and operational reliability.
-
-My goal is to build secure, scalable and cost-conscious cloud solutions that solve real-world engineering challenges.
+**My objective:** Build practical solutions that make cloud environments more secure, reliable, and maintainable.
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## 🛡️ Technology Stack & Areas of Focus
 
-### Cloud Computing
+### ☁️ Cloud Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/></a>
 </p>
 
-### Operating Systems & Infrastructure
+### 🔐 Cloud & Infrastructure Security
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash" />
+  <a href="https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html"><img src="https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/kms/"><img src="https://img.shields.io/badge/Encryption%20%26%20KMS-34495E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/cloudtrail/"><img src="https://img.shields.io/badge/CloudTrail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/guardduty/"><img src="https://img.shields.io/badge/GuardDuty-8E44AD?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://aws.amazon.com/security-hub/"><img src="https://img.shields.io/badge/Security%20Hub-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
 </p>
 
-### DevOps & Infrastructure as Code
+### 🐧 Linux & Operating Systems
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,terraform,git,github,githubactions" />
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+  <a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
 </p>
 
-### Programming & Development
+### ⚙️ DevSecOps & Infrastructure Automation
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,vscode,postgresql" />
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/></a>
+  <a href="https://trivy.dev/"><img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge"/></a>
 </p>
 
-### Monitoring, Automation & Collaboration
+### 💻 Programming & Scripting
 
-- AWS CloudWatch
-- Bash scripting
-- Python automation
-- Git and GitHub
-- GitHub Actions
-- Linux system logs and process monitoring
-- Infrastructure troubleshooting
+<p>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+</p>
+
+*These badges represent my current technical focus and learning areas. They do not imply equal proficiency or professional experience across all platforms.*
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-I believe in learning by building. My repositories showcase practical implementations, troubleshooting exercises and cloud engineering experiments.
+I am building a portfolio of practical projects focused on cloud security, infrastructure protection, Linux hardening, and DevSecOps.
 
-### ☁️ Cloud Engineering Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔐 Cloud Security Foundations</h3>
+      <p>Practical exercises covering cloud security principles, IAM, least privilege, shared responsibility, and security controls.</p>
+      <a href="https://github.com/prosperdela9-afk/aws-cloud-security-foundations">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>☁️ Secure Cloud Infrastructure</h3>
+      <p>Terraform-based infrastructure with secure access, network controls, encryption, logging, and cost-conscious design.</p>
+      <a href="https://github.com/prosperdela9-afk/secure-cloud-infrastructure">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚨 Cloud Threat Detection</h3>
+      <p>Hands-on exploration of audit logging, threat detection, security alerts, and incident investigation.</p>
+      <a href="https://github.com/prosperdela9-afk/cloud-threat-detection-lab">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🛠️ DevSecOps Security Pipeline</h3>
+      <p>Automated security checks, dependency scanning, container image scanning, and secure CI/CD workflows.</p>
+      <a href="https://github.com/prosperdela9-afk/devsecops-security-pipeline">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🐧 Linux Security Hardening</h3>
+      <p>Linux access management, SSH security, permissions, firewall configuration, log monitoring, and automation.</p>
+      <a href="https://github.com/prosperdela9-afk/linux-security-hardening">View Repository →</a>
+    </td>
+    <td width="50%">
+      <h3>🔎 More Projects</h3>
+      <p>Explore my GitHub repositories for additional technical experiments, labs, and learning projects.</p>
+      <a href="https://github.com/prosperdela9-afk?tab=repositories">Explore Repositories →</a>
+    </td>
+  </tr>
+</table>
 
-**1. Linux System Administration Portfolio**
-
-Practical Linux administration using Ubuntu 24.04, including:
-
-- User and group management.
-- File ownership and permissions.
-- Process and service management.
-- Log monitoring.
-- Bash backup automation.
-- Cron job scheduling.
-
-**2. Container Detective – Docker Troubleshooting**
-
-A practical Docker troubleshooting project involving:
-
-- Investigating container configuration issues.
-- Diagnosing application port mismatches.
-- Optimizing Docker image size.
-- Building and testing corrected containers.
-- Documenting troubleshooting procedures.
-
-**3. TrackSure – Cloud-Based SaaS Concept**
-
-A planned analytics and marketing diagnostics platform exploring:
-
-- Python and FastAPI.
-- React and Next.js.
-- PostgreSQL.
-- Docker containerization.
-- AWS cloud deployment.
-- Terraform infrastructure automation.
-
-> Project descriptions will evolve as implementation progresses.
+*Project links are planned repository destinations. Create each repository and publish its implementation before presenting it as a completed project.*
 
 ---
 
-## 🎯 Currently Learning & Exploring
+## 📚 Currently Learning
 
-| Area | Focus |
+| Focus Area | Topics |
 |---|---|
-| AWS | Cloud infrastructure, networking, security and monitoring |
-| Linux | Administration, permissions, services and scripting |
-| Docker | Containerization and deployment |
-| Terraform | Infrastructure as Code |
-| Python | Automation and backend development |
-| CI/CD | GitHub Actions and deployment pipelines |
-| Kubernetes | Container orchestration |
-| Cloud Security | IAM, encryption, monitoring and least privilege |
+| Cloud Security | IAM, encryption, network security, threat detection |
+| Linux Security | SSH, permissions, hardening, audit logs |
+| Infrastructure | Terraform, secure provisioning, configuration |
+| Container Security | Docker, image scanning, container hardening |
+| DevSecOps | GitHub Actions, CI/CD security, secrets management |
+| Automation | Python, Bash, security workflows |
+| Multi-cloud | AWS, Azure, Google Cloud security fundamentals |
 
 ---
 
-## 🏆 Certifications & Learning
-
-- ☁️ AWS Cloud Essentials Knowledge Badge
-- 🎓 AWS Cloud Engineering and DevOps learning pathway
-- 🐧 Linux Administration practical labs
-- 🐳 Docker and containerization exercises
-- 🏗️ Terraform and Infrastructure as Code practice
-
----
-
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prosperdela9-afk&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperdela9-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prosperdela9-afk&show_icons=true&theme=tokyonight&hide_border=true" alt="Prosper's GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prosperdela9-afk&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prosperdela9-afk&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=prosperdela9-afk&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
-
----
-
-## 🌱 My Engineering Philosophy
-
-- Build first, learn continuously.
-- Understand the problem before implementing a solution.
-- Prioritize security and reliability.
-- Automate repetitive tasks.
-- Document technical decisions and troubleshooting processes.
-- Build infrastructure with scalability and cost efficiency in mind.
-
-I am particularly interested in opportunities where I can contribute to cloud infrastructure, Linux operations, DevOps and technical support while growing as an engineer.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to connecting with cloud engineers, DevOps professionals, technology communities and organizations working on interesting engineering challenges.
-
 <p align="center">
+  <a href="https://github.com/prosperdela9-afk">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
   <a href="https://www.linkedin.com/in/REPLACE-WITH-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:REPLACE-WITH-YOUR-EMAIL">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/prosperdela9-afk">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <b>Thanks for visiting my GitHub profile! ⭐</b>
-</p>
+---
 
 <p align="center">
-  <i>Building today. Engineering tomorrow. ☁️</i>
+  <i>Building secure infrastructure. Automating with purpose. Learning continuously.</i>
 </p>
